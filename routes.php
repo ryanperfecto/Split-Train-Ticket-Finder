@@ -8,7 +8,7 @@
 *
 * This class requires CURL and knowledge of HTML, Xpath and webform data.
 *	
-* @author     RYAN ORMROD <ryan.ormrod.uk@gmail.com>
+* @author     RYAN ORMROD <*@gmail.com>
 */
 
 
